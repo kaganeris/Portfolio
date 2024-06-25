@@ -8,33 +8,35 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            Merhabalar, Ben <span className="purple">Kağan Eriş </span>
+            Full Stack Yazılım Geliştirme Uzmanıyım
             <br />
-            I am currently employed as a software developer at Juspay.
+            <span className="purple">Bursa Uludağ Üniversitesi Makine Mühendisliği </span>
+             bölümünden lisans derecesiyle mezun oldum.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            Hızla gelişen teknolojiye olan ilgim ve bu gelişmelere katkıda bulunma isteğiyle yazılım alanına yöneldim.
             <br />
+            Bu alanda sektöre hızla girebilmek adına <span className="purple">BilgeAdam Yıldız Yazılımcı Geliştirme Programı</span> 'na katıldım ve başarıyla tamamladım.
             <br />
-            Apart from coding, some other activities that I love to do!
+            <br/>
+            Kodlama dışında yapmayı sevdiğim diğer aktiviteler
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Sportif Aktivitelere Katılmak
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> 3 Boyutlu Modelleme Yapmak
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Rekabetçi Oyunlar Oynamak
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Be Curious Not Judgemental!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Kağan</footer>
         </blockquote>
       </Card.Body>
     </Card>
